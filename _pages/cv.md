@@ -11,8 +11,8 @@ redirect_from:
 
 Education
 ======
-* B.S. in GitHub, GitHub University, 2012
-* M.S. in Jekyll, GitHub University, 2014
+* B.A. in Economics, Xiamen University, 2022
+* M.A. in Socia Science, The Hong Kong University of Sicence and Technology, 2023
 * Ph.D in Version Control Theory, GitHub University, 2018 (expected)
 
 Work experience
