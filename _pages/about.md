@@ -10,7 +10,7 @@ redirect_from:
 # About Jiawen
 Hello, welcome to Jiawen's website.
 
-I am a 1st year MPhil student in [Division of Social Science](https://sosc.hkust.edu.hk/) at The Hong Kong University of Science and Technology (HKUST). I obtained my M.A in Social Science, 2022, from HKUST. I obtained by B.A. in Economics, 2018 from WangYanan Institute for studies on Economics (WISE), Xiamen University.
+I am a 1st year MPhil student in [Division of Social Science](https://sosc.hkust.edu.hk/) at The Hong Kong University of Science and Technology (HKUST). I obtained my M.A in Social Science, 2023, from HKUST. I obtained by B.A. in Economics, 2022, from WangYanan Institute for studies on Economics (WISE), Xiamen University.
 
 My research interests includes economics of education, behavioral economics, and labor economics.
 
