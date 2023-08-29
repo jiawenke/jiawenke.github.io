@@ -15,17 +15,35 @@ Education
 * M.A. in Social Sicence, The Hong Kong University of Sicence and Technology, 2023
 * M.Phil in Social Sicence, The Hong Kong University of Sicence and Technology, 2025 (Expected)
 
-Work experience
+Academic Research Projects
 ======
-* 2023.03-2023.08: Research Assistant
-  * Division of Social Science, The Hong Kong University of Science and Technology
-  * Duties included: Tagging issues
-  * Supervisor: Professor Li HAN
+* The Behavioral Impact of Free Teacher Education Policy Designs: Experimental Evidence from China
+  * 09/2022-Present
+  * Coauthor with Xiaoyang Ye
+  * Duties included: 
+    * Collecting data from an online randomized controlled trial (RCT) of students' willingness to participate in the FTE programme
+in 2020
+    * ConductingdataanalysisusingStata:includingbalancetest,OLSregressionanalysis,andmakinginterpretations
+    * Revising and producing the results as a paper
+    * Poster session to Association for Education Finance & Policy conference (AEFP),2023
 
-* Fall 2015: Research Assistant
-  * Github University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
+* Many People Project
+  * 09/2022-Present
+  * Coauthor with Xiaoyang Ye, Shuangye Chen, and Yan Cao et al.
+  * Duties included:
+      * Conducting experiments on examining what different empirical models and research questions different researchers would have
+for the same experimental data, and what are the differences in the final results
+      * Taking the role of one of the experimental subjects and the main author
+   
+* An Empirical Study on the Mediation Rule of College Students' Dormitory Interpersonal Relationship Based on Behavioural Experiment, Xiamen University
+  * 01/2022-09/2022
+  * Coauthor with Hua Wang and Xingxiang Zhang
+  * Funded by: A research project on "Strategies of Interpersonal Relationship Management in College Dormitories: A Game Theory Perspective" (Project Approval No. 2022XN01) of Xiamen University in 2022
+  * Duties included:
+      * Designed our own behavioural experiments, wrote the experimental procedures, organised and initiated five experiments and collected the experimental data using the Z-tree software and the Economics Lab (FEEL Lab, Xiamen University)
+      * Conclusion: In a given number of games, both parties can mitigate or resolve the conflict by using the "tit for tat" strategy, with female subjects needing more times of such strategy to mitigate the conflict
+      * Research outcome: An empirical study on the regulation of interpersonal relationship mediation in university dormitories based on behavioural experiments, submitted to the Journal of Sichuan Normal University, under review
+
   
 Skills
 ======
@@ -33,24 +51,10 @@ Skills
 * Latex
 * R
 
-Publications
-======
-  <ul>{% for post in site.publications %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
   
-Talks
+Presentations
 ======
   <ul>{% for post in site.talks %}
     {% include archive-single-talk-cv.html %}
   {% endfor %}</ul>
-  
-Teaching
-======
-  <ul>{% for post in site.teaching %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Service and leadership
-======
-* Currently signed in to 43 different slack teams
+
