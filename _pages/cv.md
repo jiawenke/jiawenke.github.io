@@ -12,7 +12,7 @@ redirect_from:
 Education
 ======
 * B.A. in Economics, Xiamen University, 2022
-* M.A. in Socia Science, The Hong Kong University of Sicence and Technology, 2023
+
 * Ph.D in Version Control Theory, GitHub University, 2018 (expected)
 
 Work experience
