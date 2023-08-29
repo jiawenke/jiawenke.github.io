@@ -12,7 +12,8 @@ redirect_from:
 Education
 ======
 * B.A. in Economics, Xiamen University, 2022
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
+* M.A. in Social Sicence, The Hong Kong University of Sicence and Technology, 2023
+* M.Phil in Social Sicence, The Hong Kong University of Sicence and Technology, 2025 (Expected)
 
 Work experience
 ======
