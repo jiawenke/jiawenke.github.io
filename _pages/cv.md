@@ -57,5 +57,6 @@ Presentations
     {% include archive-single-talk-cv.html %}
   {% endfor %}</ul>
 
+[Download paper here](http://academicpages.github.io/files/Jiawen_Ke_CV.pdf)
 
 
