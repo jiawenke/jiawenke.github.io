@@ -57,6 +57,6 @@ Presentations
     {% include archive-single-talk-cv.html %}
   {% endfor %}</ul>
 
-[Download CV here](http://academicpages.github.io/files/Jiawen_Ke_CV.pdf)
+[Download CV here](http://jiawenke.github.io/files/Jiawen_Ke_CV.pdf)
 
 
