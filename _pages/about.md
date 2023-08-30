@@ -17,4 +17,3 @@ My research interests includes economics of education, behavioral economics, and
 - My current researches include:
   - Free Teacher Education, with Dr. Xiaoyang YE
   - Many People Project, with Dr. Xiaoyang YE, Prof. Shuangye CHEN, Prof. Yan CAO et al
-  - Peer Effect in Education, with Prof. Li HAN
