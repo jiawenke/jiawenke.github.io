@@ -23,7 +23,7 @@ Academic Research Projects
   * Duties included: 
     * Collecting data from an online randomized controlled trial (RCT) of students' willingness to participate in the FTE programme
 in 2020
-    * ConductingdataanalysisusingStata:includingbalancetest,OLSregressionanalysis,andmakinginterpretations
+    * Conducting data analysis using Stata: including balance test,OLS regression analysis,and making interpretations
     * Revising and producing the results as a paper
     * Poster session to Association for Education Finance & Policy conference (AEFP),2023
 
