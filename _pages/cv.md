@@ -50,6 +50,7 @@ Skills
 * Stata
 * Latex
 * R
+* Z-Tree
 
 Presentations
 ======
