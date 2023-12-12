@@ -13,9 +13,10 @@ redirect_from:
 
 Education
 ======
-* B.A. in Economics, Xiamen University, 2022
-* M.A. in Social Sicence, The Hong Kong University of Sicence and Technology, 2023
 * M.Phil in Social Sicence *(Concentration: Economics)*, The Hong Kong University of Sicence and Technology, 2025 (Expected)
+* M.A. in Social Sicence, The Hong Kong University of Sicence and Technology, 2023
+* B.A. in Economics, Xiamen University, 2022
+
 
 Academic Research Projects
 ======
