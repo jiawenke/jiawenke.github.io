@@ -9,6 +9,8 @@ redirect_from:
 
 {% include base_path %}
 
+[Download Full CV here](http://jiawenke.github.io/files/Jiawen_Ke_CV.pdf)
+
 Education
 ======
 * B.A. in Economics, Xiamen University, 2022
@@ -34,17 +36,7 @@ in 2020
       * Conducting experiments on examining what different empirical models and research questions different researchers would have
 for the same experimental data, and what are the differences in the final results
       * Taking the role of one of the experimental subjects and the main author
-   
-* An Empirical Study on the Mediation Rule of College Students' Dormitory Interpersonal Relationship Based on Behavioural Experiment, Xiamen University
-  * 01/2022-09/2022
-  * Coauthor with Hua Wang and Xingxiang Zhang
-  * Funded by: A research project on "Strategies of Interpersonal Relationship Management in College Dormitories: A Game Theory Perspective" (Project Approval No. 2022XN01) of Xiamen University in 2022
-  * Duties included:
-      * Designed our own behavioural experiments, wrote the experimental procedures, organised and initiated five experiments and collected the experimental data using the Z-tree software and the Economics Lab (FEEL Lab, Xiamen University)
-      * Conclusion: In a given number of games, both parties can mitigate or resolve the conflict by using the "tit for tat" strategy, with female subjects needing more times of such strategy to mitigate the conflict
-      * Research outcome: An empirical study on the regulation of interpersonal relationship mediation in university dormitories based on behavioural experiments, submitted to the Journal of Sichuan Normal University, under review
 
-  
 Skills
 ======
 * Stata
@@ -58,6 +50,6 @@ Presentations
     {% include archive-single-talk-cv.html %}
   {% endfor %}</ul>
 
-[Download CV here](http://jiawenke.github.io/files/Jiawen_Ke_CV.pdf)
+
 
 
