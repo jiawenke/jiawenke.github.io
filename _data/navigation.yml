@@ -1,8 +1,5 @@
 # main links links
 main:
-
-  - title: "Presentations"
-    url: /talks/    
     
   - title: "CV"
     url: /cv/
